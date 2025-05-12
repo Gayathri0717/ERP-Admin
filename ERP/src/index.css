@@ -1,0 +1,16 @@
+@tailwind base;   
+@tailwind components; 
+@tailwind utilities;
+body {
+
+    max-width: 2000px; /* Set maximum container width to 1200px */
+  
+    margin: 0 auto; /* Center the container horizontally */
+  
+  }
+
+
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
